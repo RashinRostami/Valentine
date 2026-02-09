@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 :root{
   --pink:#ff5f9e;
@@ -18,3 +17,4 @@ body{
   min-height:100vh;
   background:var(--pink-light);
 }
+
